@@ -1,1 +1,2 @@
-# ColorsGame
+#colors game Rules
+#if
